@@ -1,3 +1,5 @@
 # ninja log v5
 0	323	6841048317813815	CMakeFiles/C_Programming.dir/main.c.obj	61e1e4f32b70f05f
 346	419	6841048318764359	C_Programming.exe	af88f25612e0eecf
+1	90	6841050248685441	CMakeFiles/C_Programming.dir/main.c.obj	61e1e4f32b70f05f
+90	160	6841050249375432	C_Programming.exe	af88f25612e0eecf
